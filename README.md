@@ -1,13 +1,10 @@
----
-
 ## 🚀 Deployment
 
-This project is automatically deployed and hosted on **Netlify** strictly for educational and portfolio demonstration purposes:
+This project is automatically deployed and hosted on **Netlify** strictly for educational and portfolio demonstration purposes, it was made while taking the Fullstack Developer Path course on Scrimba:
 
-* **Live Demo:** []()
-* **Build Status:** Deployed automatically from the `main` branch of this GitHub repository.
+**Live Demo**: https://taupe-fairy-df1052.netlify.app
 
----
+**Build Status**: Deployed automatically from the `main` branch of this GitHub repository.
 
 ## 🎨 Credits & Licenses
 
@@ -26,4 +23,4 @@ This is a non-commercial, educational project. The media assets used throughout 
 
 ### 3. Own Assets
 
-- **`profile-pic.jpg`** – Original photograph taken and created by the project author (all rights reserved / licensed under MIT alongside the repository).
+- **`profile-pic.jpg`** – Original photograph taken and created by the project author (all rights reserved).
